@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>RB Bakery Menu</title>
+
+    <meta property="og:title" content="RB Bakery — Interactive Menu" />
+    <meta property="og:description" content="Explore our baked cakes, mini cookies, and specialty treats." />
+    <meta property="og:image" content="https://rbbakery.github.io/logo.jpg" />
+    <meta property="og:url" content="https://rbbakery.github.io" />
+    <meta property="og:type" content="website" />
+
+    <script>
+      window.location.replace("https://indd.adobe.com/view/9dba8c6d-1f86-4f14-968a-920ac0262439");
+    </script>
+    <meta http-equiv="refresh" content="0; url=https://indd.adobe.com/view/9dba8c6d-1f86-4f14-968a-920ac0262439" />
+  </head>
+  <body style="background-color: #fdf3e9;"></body>
+</html>
